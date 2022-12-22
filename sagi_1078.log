@@ -1,0 +1,6 @@
+2022-12-22 11:52:16Z [INF] Starting Bootstrap for InnerSourceID: 294e5110-e175-429d-a4b5-60306f4a8fe2 and BuildNumber: 20221222.1 at target https://dev.azure.com/IBIS-Test-ADO/IBIS-Test
+2022-12-22 11:52:16Z [INF] Downloaded the Package for InnerSourceID: 294e5110-e175-429d-a4b5-60306f4a8fe2 and BuildNumber: 20221222.1
+2022-12-22 11:52:16Z [INF] Extracted the Package for InnerSourceID: 294e5110-e175-429d-a4b5-60306f4a8fe2 and BuildNumber: 20221222.1
+2022-12-22 11:52:18Z [INF] Bootstrap started for Dashboards on target
+2022-12-22 11:52:18Z [INF] Bootstrap Failed for InnerSourceID: 294e5110-e175-429d-a4b5-60306f4a8fe2 and BuildNumber: 20221222.1 due to:
+2022-12-22 11:52:18Z [ERR] Could not find a part of the path 'C:\local\Temp\BootstrapPackage\31b9f220-502f-452a-9697-a4743cfb7f14\294e5110-e175-429d-a4b5-60306f4a8fe2-20221222.1\Dashboards\Dash board url365b3c46-242c-4d2a-bac4-6c990056861d \Dash board urlWithQueriesAndTeam.json'.
